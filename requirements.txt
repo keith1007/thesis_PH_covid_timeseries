@@ -1,0 +1,12 @@
+#python version 3.8.12
+
+tensorflow==2.5.2
+numpy==1.21.2
+pandas==1.4.0
+autokeras==1.0.16.post1
+matplotlib==3.5.1
+scikit-learn==1.0.2
+keras-tuner==1.0.4
+tqdm==4.62.3
+statsmodels==0.13.1
+skforecast==0.4.2
